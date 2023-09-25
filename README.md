@@ -6,11 +6,13 @@ POSTUP, JAK ROZJET PROJEKT NA LOCALHOSTU
 
 5. Connect to server:
 Server type: Database Engine
+
 Server name: (localdb)\MSSQLLocalDb
+
 Authentication: Windows Authentication
 
    
-6. Kliknout Connect.
+7. Kliknout Connect.
 
 8. Na levo v panelu Object Explorer -> rozbalit (localdb)\MSSQLLocalDb
    
