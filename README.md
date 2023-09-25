@@ -5,9 +5,9 @@ POSTUP, JAK ROZJET PROJEKT NA LOCALHOSTU
 3. Spustit Microsoft SQL Server Management Studio.
 
 5. Connect to server:
-   Server type: Database Engine
-   Server name: (localdb)\MSSQLLocalDb
-   Authentication: Windows Authentication
+Server type: Database Engine
+Server name: (localdb)\MSSQLLocalDb
+Authentication: Windows Authentication
 
    
 6. Kliknout Connect.
@@ -24,11 +24,14 @@ POSTUP, JAK ROZJET PROJEKT NA LOCALHOSTU
 
 16. Na levo v panelu SQL Server Object Explorer -> rozbalit SQL server -> rozbalit (localdb)MSSQLLocalDb
    -> rozbalit složku Databases -> měla by jít vidět databáze pojmenovaná schoolsystem
-17. F5 nebo v horní liště zelený trojúhelník spouští aplikaci ve vašem prohlížečí
-18. Po načtení úvodní obrazovky s Login zadejte tyto přihl. údaje:
+    
+18. F5 nebo v horní liště zelený trojúhelník spouští aplikaci ve vašem prohlížečí
+    
+20. Po načtení úvodní obrazovky s Login zadejte tyto přihl. údaje:
     UserName: admin
     Password: Abcd1234. (ANO na konci hesla je tečka)
-19. Stisknout modré tlačítko Login a můžete prohlížet aplikaci.
+    
+22. Stisknout modré tlačítko Login a můžete prohlížet aplikaci.
 
 
 
