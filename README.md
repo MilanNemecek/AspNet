@@ -5,11 +5,11 @@ POSTUP, JAK ROZJET PROJEKT NA LOCALHOSTU
 3. Spustit Microsoft SQL Server Management Studio.
 
 5. Connect to server:
-Server type: Database Engine
+   Server type: Database Engine
 
-Server name: (localdb)\MSSQLLocalDb
+   Server name: (localdb)\MSSQLLocalDb
 
-Authentication: Windows Authentication
+   Authentication: Windows Authentication
 
    
 7. Kliknout Connect.
@@ -30,7 +30,9 @@ Authentication: Windows Authentication
 18. F5 nebo v horní liště zelený trojúhelník spouští aplikaci ve vašem prohlížečí
     
 20. Po načtení úvodní obrazovky s Login zadejte tyto přihl. údaje:
+
     UserName: admin
+    
     Password: Abcd1234. (ANO na konci hesla je tečka)
     
 22. Stisknout modré tlačítko Login a můžete prohlížet aplikaci.
